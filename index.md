@@ -1,17 +1,20 @@
 ## Activities
 
-* Research on grid and cloud computing
-* Research and development of tools for parallel jobs in grid environments and interactive access to them.
-* User training and support for running parallel jobs in grids
-* Task Leader for definition of Quality Criteria for the software provisioning for EGI-InSPIRE.
+* EGI Cloud Architect
+  * Leader of the [EGI Federated Cloud Task Force](https://wiki.egi.eu/wiki/EGI_Federated_Cloud)
+  * Chair of [TCB-Cloud](https://wiki.egi.eu/wiki/Technology_Coordination_Board)
+* Technical support to EGI users
+* Development of components for OpenStack/OpenNebula integration into EGI Federated Cloud
 
 ## EU-Projects
 
 ### Current 
- * [EGI-InSPIRE](http://www.egi.eu)
- * [EMI](http://www.eu-emi.eu)
+ * [AGINFRA+](http://www.plus.aginfra.eu/)
+ * [EGI-Engage](http://www.egi.eu)
 
 ### Past
+ * [EGI-InSPIRE](http://www.egi.eu)
+ * [EMI](http://www.eu-emi.eu)
  * [EUFORIA](http://www.euforia-project.eu/)
  * [EGEE-III](http://www.eu-egee.org)
  * [int.eu.grid](http://www.interactive-grid.eu/)

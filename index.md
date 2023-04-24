@@ -2,20 +2,22 @@
 
 ## Activities
 
-* EGI Cloud Architect
-  * Leader of the [EGI Federated Cloud Task Force](https://wiki.egi.eu/wiki/EGI_Federated_Cloud)
-  * Chair of [TCB-Cloud](https://wiki.egi.eu/wiki/Technology_Coordination_Board)
-  * Development of components for OpenStack/OpenNebula integration into EGI Federated Cloud
-* Service owner of [EGI Notebooks](https://notebooks.egi.eu)
-* Technical support to EGI users
+* EGI Cloud Solutions Manager
+* Service owner: [EGI Notebooks](https://www.egi.eu/service/notebooks/)
+  and [EGI Cloud Compute](https://www.egi.eu/service/cloud-compute/)
 
-## EU-Projects
+## Projects
 
 ### Current 
- * [EOSC-hub](http://www.eosc-hub.eu/)
- * [AGINFRA+](http://www.plus.aginfra.eu/)
+ * [EGI-ACE](https://www.egi.eu/project/egi-ace/)
+ * [C-SCALE](https://c-scale.eu/)
+ * [SoBigData++](https://plusplus.sobigdata.eu/)
+ * [Blue-Cloud-2026](https://blue-cloud.org/blue-cloud-2026)
 
 ### Past
+ * [NextGEOSS](https://nextgeoss.eu/)
+ * [EOSC-hub](http://www.eosc-hub.eu/)
+ * [AGINFRA+](http://www.plus.aginfra.eu/)
  * [EGI-Engage](http://www.egi.eu)
  * [EGI-InSPIRE](http://www.egi.eu)
  * [EMI](http://www.eu-emi.eu)
